@@ -1,0 +1,167 @@
+
+
+
+.work{
+    background-color: rgb(179, 197, 176);
+    padding:10px;
+    margin:0;
+    height:100%;
+    flex-direction:column;
+    justify-content:left;
+    
+
+  }
+
+.logo{
+    background-color: cadetblue;
+    font-family:fantasy;
+    font-weight:bold;
+    font-size:larger;
+    color:rgb(91, 2, 23);
+    padding:20px;
+    text-align:center;
+    
+}
+.navigation-header {
+  background: #9ce9a9;
+  padding: 30px;
+  display: flex;
+  align-items: center;
+  justify-content:flex-end;
+}
+   
+.project-header{
+  background-color:rgb(218, 159, 248);
+  padding:30px;
+  display:flex;
+  justify-content: flex-end;
+}
+nav a{
+  
+  margin-left: 20px;
+  text-decoration: none;
+  background-color: rgba(145, 80, 14, 0.467) ;
+  color:rgb(23, 36, 13);
+  padding:10px;
+ 
+  text-decoration: underline;
+  
+  
+}
+ .need-header {
+  background-color: rgb(140, 243, 243);
+   padding:30px;
+   display:flex;
+   align-items:center;
+   justify-content: flex-end;
+
+ }
+ .content-header {
+  background-color:rgb(154, 108, 210);
+  padding:30px;
+  display:flex;
+  justify-content: flex-end;
+  
+ }
+ 
+
+ 
+ 
+ .com-header{
+  background-color:#d26363;
+
+  padding:30px;
+  display:flex;
+  justify-content: flex-end;
+ }
+  .main-header{
+    background-color:rgb(186, 237, 118);
+    padding:30px;
+    align-items:center;
+    display:flex;
+    justify-content:flex-end;
+} 
+  .max-header{
+  background-color: #d39696;
+  padding:30px;
+  
+  display:flex;
+  justify-content: flex-end;
+}
+
+.login-header{
+  background-color:cornflowerblue;
+  padding:30px;
+  display:flex;
+  justify-content: flex-end;
+}
+  
+ .mini-forms{
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-weight:bold;
+  
+  
+ }
+  
+ button{
+  background-color: rgb(68, 212, 19);
+  color:rgb(14, 26, 2);
+ }
+ 
+ .products{
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  display:inline;
+
+  
+}
+
+
+footer {
+  background-color: #777;
+  color:white;
+  text-align: center;
+  padding:0 15px;
+}
+
+footer a{
+  color:#d8b117;
+  text-decoration: none;
+}
+
+footer a:hover{
+  color: #c54e13;
+ text-decoration: underline;
+
+  
+}  
+
+.main{
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  color:rgb(92, 135, 20);
+  font-weight:bold
+}
+.identify{
+  font-family:'Times New Roman', Times, serif;
+
+}
+
+
+
+.mention{
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color:rgb(216, 11, 100);
+
+ }
+
+h3{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+    margin: 10px;
+    
+}
+
+p{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  margin:10px;
+}
+
